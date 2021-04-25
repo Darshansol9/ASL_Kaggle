@@ -1,4 +1,6 @@
-input/
+input/data/
+input/*.pkl
+input/asl_alphabet_test/
 src/*.ipynb
 *.pt
 *.bin
