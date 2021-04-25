@@ -1,0 +1,4 @@
+input/
+src/*.ipynb
+*.pt
+*.bin
